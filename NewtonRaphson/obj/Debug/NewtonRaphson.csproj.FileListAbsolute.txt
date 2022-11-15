@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\bin\Debug\NewtonRaphson.exe.config
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\bin\Debug\NewtonRaphson.exe
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\bin\Debug\NewtonRaphson.pdb
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\obj\Debug\NewtonRaphson.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\obj\Debug\NewtonRaphson.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\obj\Debug\NewtonRaphson.exe
+C:\Users\user\source\repos\NewtonRaphson\NewtonRaphson\obj\Debug\NewtonRaphson.pdb
